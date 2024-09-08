@@ -25,8 +25,8 @@ export const metadata: Metadata = {
     images: [
       {
         url: "/hero-slideshow/IMG_4803.jpeg",
-        width: 1200,
-        height: 630,
+        width: 630,
+        height: 1200,
         alt: "Penn Autism Alliance",
       },
     ],
