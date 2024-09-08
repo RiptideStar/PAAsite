@@ -105,7 +105,7 @@ export default function Home() {
             ].map((role, index) => (
               <div key={index} className="bg-white p-6 rounded-lg shadow-md">
                 <h3 className="text-xl font-semibold mb-2">{role}</h3>
-                <p className="mb-4">We're looking for passionate individuals to join our team in this role.</p>
+                <p className="mb-4">We&apos;re looking for passionate individuals to join our team in this role.</p>
                 <Link href="https://docs.google.com/forms/d/e/1FAIpQLSfoBcan_OiAd9vIV3pXeOD5JTQlPJOVvU1zmqNBN5FqiIYDYw/viewform?pli=1" className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition-colors">
                   Apply Now
                 </Link>

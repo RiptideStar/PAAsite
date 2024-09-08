@@ -19,7 +19,7 @@ export default function About() {
             Founded in 2020, Penn Autism Alliance began as a small group of passionate students at the University of Pennsylvania who wanted to make a difference in the lives of individuals with autism.
           </p>
           <p className="text-lg">
-            Over the years, we've grown into a vibrant organization offering various programs and support services, always staying true to our core mission of fostering understanding and inclusion.
+            Over the years, we&apos;ve grown into a vibrant organization offering various programs and support services, always staying true to our core mission of fostering understanding and inclusion.
           </p>
         </section>
 
