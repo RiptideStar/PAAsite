@@ -76,7 +76,7 @@ export default function Home() {
               { name: 'Rayyan Shaik', role: 'Tennis Lead', image: '/team/rayyan.jpg' },
               { name: 'Suraj Neelamagam', role: 'Tennis Lead', image: '/team/suji.jpg' },
               { name: 'Kyle Zhang', role: 'Tennis Lead', image: '/team/kyle.jpg' },
-              { name: 'Emily Hoffman', role: 'Dance Lead', image: '/team/emily.jpg' },
+              { name: 'Emily Hoff', role: 'Dance Lead', image: '/team/emily.jpg' },
               { name: 'Anne Bolt', role: 'Dance Lead', image: '/team/anne.jpg' },
             ].map((member, index) => (
               <div key={index} className="bg-white p-6 rounded-lg shadow-md text-center">

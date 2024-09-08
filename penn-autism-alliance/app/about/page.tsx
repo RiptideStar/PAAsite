@@ -34,9 +34,9 @@ export default function About() {
               { name: 'Allie Frydrych', role: 'VP of Events', image: '/team/allie.jpg' },
               { name: 'Ananya Madduri', role: 'VP of Finance', image: '/team/ananya.jpg' },
               { name: 'Rayyan Shaik', role: 'Tennis Lead', image: '/team/rayyan.jpg' },
-              { name: 'Suji Neelamagam', role: 'Tennis Lead', image: '/team/suji.jpg' },
+              { name: 'Suraj Neelamagam', role: 'Tennis Lead', image: '/team/suji.jpg' },
               { name: 'Kyle Zhang', role: 'Tennis Lead', image: '/team/kyle.jpg' },
-              { name: 'Emily Hoffman', role: 'Dance Lead', image: '/team/emily.jpg' },
+              { name: 'Emily Hoff', role: 'Dance Lead', image: '/team/emily.jpg' },
               { name: 'Anne Bolt', role: 'Dance Lead', image: '/team/anne.jpg' },
             ].map((member, index) => (
               <div key={index} className="bg-white p-6 rounded-lg shadow-md text-center">
