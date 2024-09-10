@@ -75,7 +75,7 @@ export default function Home() {
               { name: 'Ananya Madduri', role: 'VP of Finance', image: '/team/ananya.jpg' },
               { name: 'Rayyan Shaik', role: 'Tennis Lead', image: '/team/rayyan.jpg' },
               { name: 'Suraj Neelamagam', role: 'Tennis Lead', image: '/team/suji.jpg' },
-              { name: 'Kyle Zhang', role: 'Tennis Lead', image: '/team/kyle.jpg' },
+              { name: 'Kyle Zhang', role: 'Tennis Lead', image: '/team/Kyle-Zhang.jpeg' },
               { name: 'Emily Hoff', role: 'Dance Lead', image: '/team/Emily-Hoff.JPG' },
               { name: 'Anne Bolt', role: 'Dance Lead', image: '/team/Anne-Bolt.jpg' },
             ].map((member, index) => (
