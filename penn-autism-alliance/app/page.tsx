@@ -85,7 +85,7 @@ export default function Home() {
                   alt={member.name}
                   width={200}
                   height={200}
-                  className="rounded-full mx-auto mb-4"
+                  className="rounded-full mx-auto mb-4 object-cover w-32 h-32"
                 />
                 <h3 className="text-xl font-semibold mb-2">{member.name}</h3>
                 <p className="text-gray-600">{member.role}</p>
