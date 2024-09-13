@@ -27,7 +27,7 @@ export default function About() {
           <h2 className="text-3xl font-bold mb-8">Our Team</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
-              { name: 'Ariana Javaheri', role: 'Co-President', image: '/team/ariana.jpg' },
+              { name: 'Ariana Javaheri', role: 'Co-President', image: '/team/Ariana-Javaheri.png' },
               { name: 'Melissa Liu', role: 'Co-President', image: '/team/Melissa-Liu.jpg' },
               { name: 'Hannah Moss', role: 'VP of Outreach', image: '/team/hannah.jpg' },
               { name: 'Sydney Bianco', role: 'VP of Outreach', image: '/team/Sydney-Bianco.png' },
