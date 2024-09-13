@@ -28,9 +28,9 @@ export default function About() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
               { name: 'Ariana Javaheri', role: 'Co-President', image: '/team/ariana.jpg' },
-              { name: 'Melissa Liu', role: 'Co-President', image: '/team/melissa.jpg' },
+              { name: 'Melissa Liu', role: 'Co-President', image: '/team/Melissa-Liu.jpg' },
               { name: 'Hannah Moss', role: 'VP of Outreach', image: '/team/hannah.jpg' },
-              { name: 'Sydney Bianco', role: 'VP of Outreach', image: '/team/sydney.jpg' },
+              { name: 'Sydney Bianco', role: 'VP of Outreach', image: '/team/Sydney-Bianco.png' },
               { name: 'Allie Frydrych', role: 'VP of Events', image: '/team/Allie-Frydrych.jpg' },
               { name: 'Ananya Madduri', role: 'VP of Finance', image: '/team/ananya.jpg' },
               { name: 'Rayyan Shaik', role: 'Tennis Lead', image: '/team/rayyan.jpg' },
